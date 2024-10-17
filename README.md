@@ -1,3 +1,4 @@
 # New-Github-Repository
 Week 1 lecture
-This is the first assignment for Week 1: Code REpository
+Author: Adrian Rayos
+Purpose: Comp002 GitHub Excercise
